@@ -44,8 +44,55 @@ The raw housing sales data underwent several cleaning and transformation steps:
 - Property Sold based on Numbers of bedroom and bathrooms **(2 Bedroom, 1 & 2 Bathroom)** following by **(3 Bedroom, 2 Bathroom)**
 - Property sold based on price range **(Above 1M follwing by 400K-500k)**
 - MOst numbers of property sold by agent in Auburn **(Starr Partners Auburn)** and in Burwood **(Belle Property Strathfield)**
+## ##
+**2. Budget Tracking**
 
-  
+**Overview**
+
+Using pivot tables and charts, providing summaries by region, product, and time. Visual insights help track performance and support strategic decision-making.
+
+**Data Cleaning and Processing:**
+ - Remove duplicates
+ - Correct spellings
+ - Use **Format as Table** for better visual
+ - Use **Filter**
+
+**Dashboard Overview:**
+
+<img width="629" alt="Pivot tables" src="https://github.com/user-attachments/assets/063193f4-8c38-4330-b740-883acf746f70" />
+
+**Key Features:**
+
+- Total Sales by Person
+- Total Sales by person and geography
+- Total sales by person for specific geography
+- Top 5 Products by customers
+- Top 5 sales persons by grography
+- Slicer based on Geography
+
+
+**Findings:**
+
+- **70% Dark Bites** most consumed product by customers all over area
+- **Curtice Advani** is the highest valued sales person in all geographical area **(as well as in Australia)**
+- **Almond Choco** is the most sold product in Australia
+- **Fruit & Nut Bars** is the least favourite product all over area
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 📬 Contact
 
 If you’d like to collaborate or suggest improvements, feel free to connect with me.
