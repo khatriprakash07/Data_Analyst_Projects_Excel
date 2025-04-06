@@ -45,7 +45,7 @@ The raw housing sales data underwent several cleaning and transformation steps:
 - Property sold based on price range **(Above 1M follwing by 400K-500k)**
 - MOst numbers of property sold by agent in Auburn **(Starr Partners Auburn)** and in Burwood **(Belle Property Strathfield)**
 ## ##
-**2. Budget Tracking**
+**3. Pivot Tables and Charts**
 
 **Overview**
 
