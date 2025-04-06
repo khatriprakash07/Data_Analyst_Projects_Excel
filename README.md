@@ -24,7 +24,9 @@ The raw housing sales data underwent several cleaning and transformation steps:
 
 **Dashboard Overview:**
 
-<img width="919" alt="Australian housingPNG" src="https://github.com/user-attachments/assets/bc0fcec6-20a0-4205-a20c-6f9a45b8da77" />
+<img width="926" alt="Burwood" src="https://github.com/user-attachments/assets/f43a1fa7-3b41-4744-8856-a8dd0f163220" />
+
+<img width="406" alt="House hold" src="https://github.com/user-attachments/assets/23427183-7b29-4ab0-aa6e-b1583e23d1eb" />
 
 **Key Features:**
 
